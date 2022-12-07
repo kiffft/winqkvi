@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+header img{width: 70px
+        ;height: 50px;}
+
+header a {color: rgb(43, 43, 209);
+         background-color:rgb(247, 206, 192);
+         border-radius: 10px;
+         padding: 2px;
+         text-decoration: none;}
+header{background-color: rgb(43, 43, 209);
+height: 70px;}
+h1{text-align: center;
+    color: rgb(48, 48, 199);
+    font-size: 50px;
+    font-family:sans-serif;}
+footer{color: rgb(247, 206, 192);
+       background-color:white;}
+footer p{background-color: rgb(43, 43, 209);}
+nav {margin:5px;
+     padding: 10px;
+     }
+nav a{text-decoration: none;
+      font-size: 20px;
+      margin: 10px;
+      border: 2px solid rgb(43, 43, 209);
+      border-radius: 10px;
+      padding: 5px;
+      }
+      .wer{background-color: rgb(43, 43, 209);
+      color:rgb(247, 206, 192) ;}
+.kift{background-color: rgb(43, 43, 209) ;
+    color: rgb(247, 206, 192);
+    border-radius: 15px; 
+    margin: 5px; padding: 10px}
+.kifft{background-color: rgb(43, 43, 209) ;
+    color: rgb(247, 206, 192);
+    border-radius: 15px; 
+    margin: 5px; padding: 10px}
+.kifter{background-color: rgb(43, 43, 209) ;
+    color:rgb(247, 206, 192);
+    border-radius: 15px; 
+    margin: 5px; padding: 10px}
+.kiftt{background-color: rgb(43, 43, 209) ;
+    color: rgb(247, 206, 192);
+    border-radius: 15px; 
+    margin: 5px;
+    padding: 10px;}
+main{margin: 20px;}
+body{font-size: 20px;}
+h2{text-align: center;
+    color: rgb(48, 48, 199);
+    font-family:sans-serif;}
+.terww{color: red;}
+.tyr{text-decoration: none;
+      font-size: 20px;
+      margin: 10px;
+      border: 2px solid rgb(43, 43, 209);
+      border-radius: 10px;
+      padding: 5px;}
